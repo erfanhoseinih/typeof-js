@@ -1,4 +1,4 @@
-#Type of variable in javascript
+# Type of variable in javascript
 
 i want to create function to return type of variable!
 
